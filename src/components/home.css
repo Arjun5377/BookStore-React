@@ -1,0 +1,19 @@
+* {
+    font-family: Poppins;
+}
+.home {
+    background: black;
+}
+.signup-modal{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    box-shadow: 24;
+    width: 1233px;
+    height: 40rem;
+    background-color: #3D2D23;
+    display: flex;
+    flex-direction: column;
+    border-radius: 2%;
+}
